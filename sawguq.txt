@@ -22917,3 +22917,117 @@ gywnx　(见swnx)　芋头或红薯煮熟后，肉仍结实不松的现象
 gywnh　(见gapseng)　家畜家禽没阉干净．
 gywngz　(见ndaij)　竹筒
 gywngz　(见mboengq)　大竹筒
+
+hongqhag 学校
+honghhag 学校
+hongqsaw 学校
+honghsaw 学校
+sawiq 小学
+sawgyanggyaeddaemq 初级中学
+sawgyanggyaedsang 高级中学
+sawlaux 大学
+hongqsawiq 小学校
+honghsawiq 小学校
+honghsawgyang 中学校
+hongqsawlaux 大学校
+honghsawlaux 大学校
+hagdangz 学堂
+suenhag 学园，校园，校区
+suensaw 学园，校园，校区
+ndawhag 校园
+cehhag 校园，校区
+nga 分校区
+hongqyawjsaw 图书馆
+ranzsaw 图书馆
+ranzyawjsaw 图书馆
+ranzlaeuzsonsaw 教学大楼
+sonhag 教学
+sonsaw 教学
+son 教育
+son'gyauq 教育
+rugson 教室
+rugyw 医务室
+redou 门卫
+bouxredou 门卫
+ruggwn 食堂
+diengzgwn 食堂
+
+
+lwghag 学生，学子
+lwgsae 学徒
+bouxhag 学员
+canghhag 学者，研究人员
+canghsaw 学者，研究人员
+bouxcangh 专家
+lauxsae 老师，教师
+canghson 教授，教师
+bouxson 教员
+canghyw 医生，医师
+daeuzban 班长
+daeuzhongqhag 校长
+cawjnyaemh 主任
+beixhag 师兄、学长；师姐，堂姐
+daegbeixhag 师兄、学长
+dahcejhag 师姐、堂姐
+nuengxhag 师弟、学弟；师妹、学妹
+daegnuengxhag 师弟、学弟
+dahnuengxhag 师妹、学妹
+lwghagmbauq 男学生
+lwghagsau 女学生
+
+
+hwnjhag 上学
+baehag 上学
+roengzhag 放学
+hwnjdangz 上课
+roengzdangz 下课
+doegsaw 读书，上学，求学
+dungxcaiz 学问
+sawhag 学问
+honghag 专业，作业
+rokhag 学业，作业
+hongbaenz 成绩
+ban 班
+haeh 系
+hongq 院
+gyaedbi 年级
+hagsoq 数学
+sawsoq 数学
+hagvaq 化学
+qawvaq 化学
+sawyw 医学
+sawyw 医书
+faedleix 物理
+cangqndang 体育
+lienhndang 体育
+doenghlix 生物
+hauqsaw 语文
+rug 宿舍
+haglig 学历
+cohhag 学名
+ngaenzhag 学费
+ngaenzgwn 生活费
+cienzgwn 生活费
+dingzhag 停学
+saethag 失学
+haihag 开学
+deuzhag 逃学,旷课
+hoihlwghag 学生会
+
+
+gaiqhag 科学
+gohag 科学
+daehsaw 书包
+bouqsaw 书店，书铺
+gaqsaw 书架
+daizsaw 书桌
+doengzhag 同学
+doengzdaiz 同桌
+
+mbawgauj 考卷，试卷
+mbawgienj 试卷
+gauj 考
+sathag 毕业
+couhnieb 就业
+geizhag 学期
+faenhag 学分
